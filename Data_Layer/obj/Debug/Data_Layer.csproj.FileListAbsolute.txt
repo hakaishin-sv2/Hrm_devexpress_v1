@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\HeThongHRM\Data_Layer\bin\Debug\Data_Layer.dll.config
+C:\Users\ADMIN\source\repos\HeThongHRM\Data_Layer\bin\Debug\Data_Layer.dll
+C:\Users\ADMIN\source\repos\HeThongHRM\Data_Layer\bin\Debug\Data_Layer.pdb
+C:\Users\ADMIN\source\repos\HeThongHRM\Data_Layer\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\HeThongHRM\Data_Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\HeThongHRM\Data_Layer\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\HeThongHRM\Data_Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\HeThongHRM\Data_Layer\obj\Debug\Data_Layer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\HeThongHRM\Data_Layer\obj\Debug\Data_Layer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\HeThongHRM\Data_Layer\obj\Debug\Data_Layer.csproj.Up2Date
+C:\Users\ADMIN\source\repos\HeThongHRM\Data_Layer\obj\Debug\Data_Layer.dll
+C:\Users\ADMIN\source\repos\HeThongHRM\Data_Layer\obj\Debug\Data_Layer.pdb
